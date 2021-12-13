@@ -26,6 +26,9 @@ public class prog13{
 				if(check){
 					i=i+arr2.length-1;
 				}
+				else{
+					System.out.print(arr[i]);
+				}
 			}
 			else{	
 				System.out.print(arr[i]);
